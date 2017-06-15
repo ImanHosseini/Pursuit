@@ -1,4 +1,5 @@
 # Pursuit <br /> <br />
+![alt text](https://github.com/ImanHosseini/Pursuit/blob/master/pursuit.jpg)
 There was this famous physics (kinematics) problem from when I studied for olympiad that there are N turtles arranged on 
 a circle in equal angular displacement and each one follows the next one with velocity V, what would be their trajectory
  as a function of time? Its like what ants do, and it helps the trajectory to "smooth out" and its a cool example
